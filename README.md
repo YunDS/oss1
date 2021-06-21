@@ -1,2 +1,3 @@
 # oss1
-This is my first md file
+##추가 메시지
+git은 재미있다! XD
